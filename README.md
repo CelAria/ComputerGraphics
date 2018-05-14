@@ -5,6 +5,7 @@ Celeste Pimm
 Comp 371
 Summer 2018
 
+Written in Visual Studio 2017
 
 Program reads in square greyscale .png, transforms into heightmap mesh
 Program checks size of image to ensure within constraints of 256x256 and 1024x1024x
